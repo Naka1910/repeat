@@ -1,0 +1,11 @@
+   body{
+   .title{
+       text-align: center;
+   }
+   .container{
+        background-color: rgb(154, 207, 194);
+        &__text{
+            font-size: 30px;
+        }
+    }
+   }

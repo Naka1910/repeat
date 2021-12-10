@@ -1,0 +1,12 @@
+body .title {
+  text-align: center;
+}
+
+body .container {
+  background-color: #9acfc2;
+}
+
+body .container__text {
+  font-size: 30px;
+}
+/*# sourceMappingURL=global.css.map */
